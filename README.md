@@ -8,10 +8,10 @@ I have performed detailed exploratory data analysis of dataset. I have used line
 The goal is to predict the accurate SalePrice with given features. The models are evaluated using the Root-Mean-Squared-Error (RMSE).
 
 # Step Followed 
-1.Data Analysis and visualization
+1. Data Analysis and visualization
 
-2.Feature Engineering
+2. Feature Engineering
 
-3.Feature Selection
+3. Feature Selection
 
-4.Model Building and evaluation 
+4. Model Building and evaluation 
